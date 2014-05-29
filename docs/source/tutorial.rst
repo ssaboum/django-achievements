@@ -5,7 +5,7 @@ Tutorial
 --------------
 Installing
 --------------
-Best way to install django-achievements is to user pip : ::
+Best way to install django-achievements is to use pip : ::
 
     pip install django-achievements
 
